@@ -1,3 +1,6 @@
+### POINTS: 2
+### Nice Job!
+
 # Frontend Review CT complete CW
 
 ### Exercise 1:
